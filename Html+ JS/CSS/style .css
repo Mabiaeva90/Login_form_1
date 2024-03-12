@@ -1,0 +1,58 @@
+/* 3rd video */
+
+/* h1{
+    color: brown;
+} */
+
+/* 4th video */
+/* h1{
+    color: green;
+    font-size: 80px;
+}
+
+.my-text-style{
+    color: blue;
+    font-size: 80px;
+}
+
+
+#my-text-style{
+    color: rgb(89, 17, 2);
+    font-size: 80px;
+} */
+
+/* #my-id{
+    color: rgb(210, 152, 76);
+    font-weight: 900;
+} */
+
+
+/* *h1{
+    color: rgb(210, 152, 76);
+    font-weight: 900;
+} */
+
+
+/* h1,p{
+    color: rgb(181, 4, 197);
+    font-weight: 900;
+} */
+
+/* 5th video */
+/* body{
+    background-image: url("yellow-green.jpg")
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-position: center;
+    background-attachment:fixed;
+    background-size: cover;
+} */
+
+
+h1{
+    /* border-style: dashed; */
+    /* border-style: dotted; */
+    /* border-style: double; */
+    /* border-style: groove; */
+    border-style: hidden;
+}
